@@ -17,7 +17,7 @@ int main() {
 
     // Display the results
     printf("Area=%d, Perimeter=%d\n", area, perimeter);
-
+    
     return 0;   
 }   
 /*
